@@ -22,7 +22,7 @@ export default function ProfileScreen() {
 
       <View style={styles.profileContent}>
         <Image 
-          source={{ uri: '' }} 
+          source={{ uri: 'https://media.licdn.com/dms/image/v2/D5603AQHZCtvcALrUjQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1713346040944?e=2147483647&v=beta&t=ZldvaGoCqTY_iQtQkVIHbpu6dIahoVqQzNcOd6pExgI' }} 
           style={styles.avatar} 
         />
         
